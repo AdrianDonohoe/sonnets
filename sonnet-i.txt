@@ -1,4 +1,4 @@
-Sonnet I
+Sonnet I by WS
 
 
 FROM fairest creatures we desire increase,
